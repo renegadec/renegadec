@@ -7,7 +7,7 @@ Web Developer
 I have been a developer since 2015. Since 2015 I have worked for a cryptocurrency exchange named Golix, 3 cryptocurrency projects namely Smartcash, House Africa and XinFin. I spent most of my time as a developer at Golix and Smartcash. Due to a growing career, I dropped focusing on development and started building my own startup. I picked up web development again in 2020 and I am working on becoming a full-stack developer in Web 3 or Blockchain Development.
 
 * 🌍  I'm based in Harare, Zimbabwe
-* ✉️  You can contact me at [confidence@africoiner.com](mailto:confidence@africoiner.com)
+* ✉️  You can contact me at [confidencenyirenda7@gmail.com](mailto:confidencenyirenda7@gmail.com)
 * 🧠  I'm learning Django, Solidity and Javascript
 * 🤝  I'm open to collaborating on Front End development projects
 
