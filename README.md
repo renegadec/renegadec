@@ -8,7 +8,7 @@ I have been a developer since 2015. Since 2015 I have worked for a cryptocurrenc
 
 * 🌍  I'm based in Harare, Zimbabwe
 * ✉️  You can contact me at [confidencenyirenda7@gmail.com](mailto:confidencenyirenda7@gmail.com)
-* 🧠  I'm learning Django, Solidity and Javascript
+* 🧠  I'm learning Python, Django, Solidity and Javascript
 * 🤝  I'm open to collaborating on Front End development projects
 
 ### Skills
