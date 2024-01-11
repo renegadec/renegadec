@@ -7,7 +7,7 @@ Senior Web Developer
 🌐 Exploring the Decentralized Web (Web3) & using AI Marvels 🤖 | Building the Future with Internet Computer (ICP) 🚀 | Code, Coffee, and Infinite Possibilities ☕🌌 #Web3 #AI #ICP #CodeCraftsman
 
 * 🌍  I'm based in Africa
-* ✉️  You can contact me at [work@africoiner.com](mailto:cn@tswaanda.com)
+* ✉️  You can contact me at [cn@tswaanda.com](mailto:cn@tswaanda.com)
 * 🚀  I'm currently working on [Tswaanda Marketplace](http://tswaanda.com)
 * 🧠  I'm learning Motoko and Building Scalable applications on ICP.
 * 🤝  I'm open to collaborating on Web3-based projects.
